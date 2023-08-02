@@ -14,7 +14,7 @@ npm run server
 
 
 
-> - 技术栈： Vue2.0、Element UI、axios
+> - 技术栈： Vue2.0 、Element UI、Axios
 
 > - B站 ：[ODracarys](https://www.bilibili.com/video/BV1mj41197K3/?spm_id_from=333.337.search-card.all.click)
 > - 萤石云开放平台：https://open.ys7.com/
@@ -31,6 +31,7 @@ npm run server
 > - [x] 抓拍
 > - [x] 录屏
 > - [x] 对讲
+> - [x] 连接
 
 
 
